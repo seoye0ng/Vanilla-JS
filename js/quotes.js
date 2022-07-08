@@ -2,44 +2,44 @@ const quotes = [
   {
     quote:
       "Life is a tragedy when seen in close-up, but a comedy in long-shot.",
-    author: "Charlie Chaplin",
+    author: "- Charlie Chaplin",
   },
   {
     quote: "Sometimes even to live is an act of courage.",
-    author: "Seneca",
+    author: "- Seneca",
   },
   {
     quote: "What we dwell on is who we become.",
-    author: "Oprah Winfrey",
+    author: "- Oprah Winfrey",
   },
   {
     quote: "The secret of getting ahead is getting started.",
-    author: "Mark Twain",
+    author: "- Mark Twain",
   },
   {
     quote:
       "Great things are done by a series of small things brought together.",
-    author: "Vincent Van Gogh",
+    author: "- Vincent Van Gogh",
   },
   {
     quote: "The way to get started is to quit talking and begin doing.",
-    author: "Walt Disney",
+    author: "- Walt Disney",
   },
   {
     quote: "The future starts today, not tomorrow.",
-    author: "Saint pope John Paul II",
+    author: "- Saint pope John Paul II",
   },
   {
     quote: "To be happy, we must not be too concerned with others.",
-    author: "Albert Camus",
+    author: "- Albert Camus",
   },
   {
     quote: "Life is not fair, get used to it.",
-    author: "Bill Gates",
+    author: "- Bill Gates",
   },
   {
     quote: "Only i can change my life. NO one can do it for me.",
-    author: "Carol Burnett",
+    author: "- Carol Burnett",
   },
 ];
 
